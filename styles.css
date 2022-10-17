@@ -1,0 +1,148 @@
+
+ .class-for-home-body {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   overflow: hidden;
+   z-index: 1;
+   text-shadow: 5px 5px 10px aqua;
+ }
+
+ .class-for-h1-home {
+    text-align: center;
+    font-size: 4rem;
+    font-family: cursive;
+    color: white;
+    padding: 20px;
+    margin: 15px;
+    z-index: 2;
+    opacity: 0.8;
+    text-shadow: 5px 5px 10px aqua;
+ }
+
+ .class-for-h2-home  {
+   text-align: top;
+   font-size: 2rem;
+   font-family: cursive;
+   color: white;
+   padding: 20px;
+   margin: 15px;
+   z-index: 2;
+   opacity: 0.8;
+   overflow: hidden;
+   text-decoration: none;
+   
+ }
+
+
+   
+.video-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    border: 
+
+}
+           
+
+
+#id-for-experience {
+    background-color: white;
+} 
+
+
+.cl-f-ex-h1 {
+    text-align: center;
+    color:  white;
+    font-size: 40px;
+    font-family: cursive;
+    text-shadow: 5px 5px 10px aqua;
+   background: linear-gradient(white, teal)
+}
+
+.class-of-experience-h3 {
+    text-align: justify;
+    margin: 100px;
+}
+
+h2 {
+    color: ;
+}
+h4 {
+    font-style: italic;
+    color: teal;
+}
+
+ul {
+    display: flex;
+    flex-direction: left;
+    justify-content: left;
+    border-style: ridge;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px teal;
+    margin-right: 20%;
+
+}
+
+article {
+    display: flex;
+    flex-direction: left;
+    justify-content: left;
+    border-style: ridge;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px teal;
+    margin-right: 20%;
+
+}
+
+.prof-links {
+    color: teal;
+}
+
+
+
+
+.class-for-bio {
+    background-image: url(img/me.jpeg); 
+    background-size: cover;
+}
+ 
+  
+
+.class-for-bio-header {
+    text-align: center;
+    color: white;
+    font-family: cursive;
+    font-size: 40px;
+    text-shadow: 5px 5px 10px aqua;
+}
+
+#my-bio {
+    text-align: center;
+    color: black;
+    font-family: cursive;
+}
+
+.class-for-portfolio-body {
+     
+        background-image: url(img/hawaii.jpeg); 
+        background-size: cover;
+        font-family: cursive;
+        font-size: 40px;
+        text-shadow: 5px 5px 10px aqua;
+          
+    }
+
+   
+
+
+
+
