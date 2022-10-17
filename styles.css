@@ -134,6 +134,7 @@ article {
 .class-for-portfolio-body {
      
         background-image: url(img/hawaii.jpeg); 
+        background-repeat: no-repeat;
         background-size: cover;
         font-family: cursive;
         font-size: 40px;
